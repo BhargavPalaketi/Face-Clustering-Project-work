@@ -1,3 +1,3 @@
-# face_clustering
-mini_project
+# Face_clustering
+my major project
 
